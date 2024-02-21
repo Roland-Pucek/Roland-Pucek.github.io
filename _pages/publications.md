@@ -12,4 +12,9 @@ nav_order: 2
 
 {% bibliography %}
 
+---
+title: Thesis
+---
+stuff
+
 </div>

@@ -1,8 +1,9 @@
-{% if site.arxiv %}
-  <a href="{{ site.arxiv }}" title="arXiv"><i class="ai ai-arxiv ai"></i></a>
-{% endif %}
+
 {% if site.email %}
   <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
+{% endif %}
+{% if site.arxiv %}
+  <a href="{{ site.arxiv }}" title="arXiv"><i class="ai ai-arxiv ai"></i></a>
 {% endif %}
 {% if site.telegram_username %}
   <a href="https://telegram.me/{{ site.telegram_username }}" title="telegram"><i class="fa-brands fa-telegram"></i></a>

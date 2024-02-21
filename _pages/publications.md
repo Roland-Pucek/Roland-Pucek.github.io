@@ -12,9 +12,9 @@ nav_order: 2
 
 {% bibliography %}
 
----
-title: Thesis
----
-stuff
+# thesis
+
+<div class="publications">
+{% bibliography -f thesis %}
 
 </div>

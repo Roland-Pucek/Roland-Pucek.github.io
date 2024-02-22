@@ -7,9 +7,11 @@ nav: true
 nav_order: 6
 ---
 
+&nbsp;
+
 ## summer semester 2024
 ---
-### toric varieties  
+<span style="font-size:1.5em;">toric varieties  </span>
 
 
 1. 

@@ -9,7 +9,8 @@ nav_order: 3
 
 ### organised events
 
-<table>
+<div class="table-responsive">
+<table class="table table-sm table-borderless">
   <tr>
     <td>January</td>
     <td>Germany<br>stuff</td>
@@ -27,6 +28,7 @@ nav_order: 3
     <td>Germany<br>stuff</td>
   </tr>
 </table>
+</div>
   
 ### publications
 

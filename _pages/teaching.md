@@ -11,7 +11,7 @@ nav_order: 6
 
 ## summer semester 2024
 ---
-<span style="font-size:1.5em;">toric varieties  </span>
+#### *toric varieties*
 
 
 1. 
@@ -34,7 +34,7 @@ nav_order: 6
 
 ## winter semester 2023
 ---
-#### oberseminar: derived categories  
+#### *oberseminar: derived categories* 
 (turned into a study group on gerbes)
 
 
@@ -61,7 +61,7 @@ nav_order: 6
 
 &nbsp;
 
-### Kähler geometry 
+#### *Kähler geometry* 
 
 1. introduction
  - tensors, exterior derivative, de Rham cohomology, Riemannian volume form and integration, Stokes theorem  (Poincare duality)
@@ -106,7 +106,7 @@ nav_order: 6
 
 ## summer semester 2023
 ---
-### basic category theory
+#### *basic category theory*
 
 
 1. categories, functors, natural transformations
@@ -133,7 +133,7 @@ nav_order: 6
 
 &nbsp;
 
-### topics is differential geometry 
+#### *topics is differential geometry* 
 
 1. flat connections
 2. foliations
@@ -160,7 +160,7 @@ nav_order: 6
 
 ## winter semester 2022
 ---
-### vector, principal and fibre bundles, connections, and characteristic classes
+#### *vector, principal and fibre bundles, connections, and characteristic classes*
 
 
 1. Overview
@@ -195,7 +195,7 @@ nav_order: 6
 
 ## summer semester 2022
 ---
-### toric symplectic geometry
+#### *toric symplectic geometry*
 
 
 1. review of Lie group theory and symplectic geometry

@@ -13,7 +13,7 @@ nav_order: 3
 <table class="table table-sm table-borderless">
   <tr>
     <td>January</td>
-    <td>Germany<br>stuff</td>
+    <td>[Link text](https://website-name.com)</td>
   </tr>
   <tr>
     <td>January</td>
@@ -30,20 +30,6 @@ nav_order: 3
 </table>
 </div>
   
-### publications
-
-<!-- _pages/publications.md -->
-<div class="publications">
-
-{% bibliography %}
-</div>
-
-### thesis
-
-<div class="publications">
-{% bibliography -f thesis %}
-
-</div>
 
 &nbsp;
 

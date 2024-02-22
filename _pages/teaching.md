@@ -12,22 +12,6 @@ nav_order: 6
 ### oberseminar: derived categories  
 (turned into a study group on gerbes)
 
-<details>
-  <summary>Click me</summary>
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details>
 
 1. stuff
 2. more stuff
@@ -37,13 +21,17 @@ nav_order: 6
 
   
 <details>
-  <summary>References</summary>  
-  * Principles of algebraic geometry - Griffits, Harris
-  * Einstein manifolds - Besee
-  * Complex geometry - Huybrechts
-  * Lectures on Kahler geometry - Moroianu
-  * Lectures on Kahler manifolds - Ballmann
-  * A survey of the hodge conjecture - Lewis
+  <summary>References</summary> 
+
+  <ul>
+  <li>Principles of algebraic geometry - Griffits, Harris</li>
+  <li>Einstein manifolds - Besee</li>
+  <li>Complex geometry - Huybrechts</li>
+  <li>Lectures on Kahler geometry - Moroianu</li>
+  <li>Lectures on Kahler manifolds - Ballmann</li>
+  <li>A survey of the hodge conjecture - Lewis</li>
+  </ul>
+  
 </details>
 
 &nbsp;

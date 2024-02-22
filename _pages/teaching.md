@@ -34,7 +34,7 @@ nav_order: 6
 
 ## winter semester 2023
 ---
-### oberseminar: derived categories  
+#### oberseminar: derived categories  
 (turned into a study group on gerbes)
 
 

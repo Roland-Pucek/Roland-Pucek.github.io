@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: a differential geometer with interests in mathematics related to geometry
+subtitle: geometer
 
 profile:
   align: right

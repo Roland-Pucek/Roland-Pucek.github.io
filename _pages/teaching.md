@@ -8,20 +8,11 @@ nav_order: 6
 ---
 
 # winter semester 2023
+---
 oberseminar: derived categories   (turned into a study group on gerbes)
 
-|||---|||
-#### Columns
+Kähler geometry 
 
-can save space.
+# summer semester 2023
 
-#### Prettify
 
-the page layout.
-
-*** promo
-#### Can be
-
-trendy.
-***
-|||---|||

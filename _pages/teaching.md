@@ -7,8 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-&nbsp;
-
 ## summer semester 2024
 ---
 #### *toric varieties*

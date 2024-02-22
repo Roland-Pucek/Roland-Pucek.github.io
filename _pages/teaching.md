@@ -38,6 +38,28 @@ nav_order: 6
 
 ### Kähler geometry 
 
+1. introduction
+ - tensors, exterior derivative, de Rham cohomology, Riemannian volume form and integration, Stokes theorem  (Poincare duality)
+2. complex manifolds
+ - complex manifolds: equivalent definitions, cotangent space m/m^2 definition
+ - almost complex structure and equivalent condition of integrability
+ - real vs complex vs holomorphic - functions, vector field and differential forms
+ - Dolbeault cohomology
+3. vector bundles and sheaves
+ - real/complex/holomorphic vector bundles, (hermitian) metrics, connections and curvatures
+ - Cauchy-Rieman operators/pseudo-holomorphic structures
+ - Chern classes
+ - sheaves and Cech cohomology
+ - line bundles and divisors
+4. Kahler and Hermitian manifolds 
+ - harmonic theory, dd^c-lemma
+ - Kahler identities
+ - Hodge decomposition
+ - Lefschetz theorems
+ - Kodaira-Serre duality, related results
+5. Kodaira embedding and vanishing theorems, projective manifolds
+6. Calabi-Yau and Aubin-Yau theorems, Hodge conjecture, related results
+
 <details>
   <summary>References</summary>
   
@@ -52,6 +74,10 @@ nav_order: 6
   <li>A survey of the hodge conjecture - Lewis</li>
   </ul>
 </details>
+
+&nbsp;
+
+&nbsp;
 
 ## summer semester 2023
 ---

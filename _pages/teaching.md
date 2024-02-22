@@ -20,8 +20,7 @@ nav_order: 6
 
   
 <details>
-  <summary>References</summary>
-  &nbsp;
+  <summary>References</summary>  
   * Principles of algebraic geometry - Griffits, Harris
   * Einstein manifolds - Besee
   * Complex geometry - Huybrechts

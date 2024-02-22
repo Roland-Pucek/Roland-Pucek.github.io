@@ -9,10 +9,10 @@ nav_order: 2
 
 ### in preparation
 
-- Geometry of compatible polytopes
-- Hyperbolic integral formulae for solutions of constant coefficient 2nd order PDEs
-- Toric separable geometries and extremal Kähler metrics
-&nbsp;
+<div class="publications">
+{% bibliography -f in preparation %}
+
+</div>
   
 ### publications
 

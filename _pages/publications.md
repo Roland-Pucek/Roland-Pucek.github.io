@@ -28,3 +28,9 @@ nav_order: 2
 {% bibliography -f thesis %}
 
 </div>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;

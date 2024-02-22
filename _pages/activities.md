@@ -12,7 +12,7 @@ nav_order: 3
 <div class="table-responsive">
 <table class="table table-sm table-borderless">
   <tr>
-    <td>202r</td>
+    <td>2023</td>
     <td><a href="https://sites.google.com/view/jena-workshop/">Regional Workshop in Algebraic Geometry</a>
         <br>University of Jena</td>
   </tr>

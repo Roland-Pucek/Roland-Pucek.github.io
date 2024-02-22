@@ -12,6 +12,23 @@ nav_order: 6
 ### oberseminar: derived categories  
 (turned into a study group on gerbes)
 
+<details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Javascript
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
+
 1. stuff
 2. more stuff
 

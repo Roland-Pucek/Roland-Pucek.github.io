@@ -12,9 +12,16 @@ nav_order: 6
 ### oberseminar: derived categories  
 (turned into a study group on gerbes)
 
+1. stuff
+2. more stuff
+
+* other
+* less other
+
+  
 <details>
   <summary>References</summary>
-
+  &nbsp;
   * Principles of algebraic geometry - Griffits, Harris
   * Einstein manifolds - Besee
   * Complex geometry - Huybrechts
@@ -25,8 +32,19 @@ nav_order: 6
 
 &nbsp;
 
-Kähler geometry 
+### Kähler geometry 
 
-### summer semester 2023
+<details>
+  <summary>References</summary>
+  &nbsp;
+  * Principles of algebraic geometry - Griffits, Harris
+  * Einstein manifolds - Besee
+  * Complex geometry - Huybrechts
+  * Lectures on Kahler geometry - Moroianu
+  * Lectures on Kahler manifolds - Ballmann
+  * A survey of the hodge conjecture - Lewis
+</details>
 
+## summer semester 2023
+---
 

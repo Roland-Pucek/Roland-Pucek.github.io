@@ -7,6 +7,29 @@ nav: true
 nav_order: 6
 ---
 
+## summer semester 2024
+---
+### toric varieties  
+
+
+1. 
+
+  
+<details>
+  <summary>References</summary> 
+
+  &nbsp;
+
+  <ul>
+  <li*</li>
+  </ul>
+  
+</details>
+
+&nbsp;
+
+&nbsp;
+
 ## winter semester 2023
 ---
 ### oberseminar: derived categories  

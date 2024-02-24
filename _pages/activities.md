@@ -19,6 +19,17 @@ nav_order: 3
 </table>
 </div>
 
+### research visits
+
+<div class="table-responsive">
+<table class="table table-sm table-borderless">
+  <tr>
+    <td>2024</td>
+    <td>KTH<br> 3 weeks</td>
+  </tr>
+</table>
+</div>
+
 ### conferences, workshops and schools
 
 

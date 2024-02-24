@@ -23,9 +23,9 @@ social: true # includes social icons at the bottom of the page
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I did my PhD under the the supervision of [Prof. David M. J. Calderbank](https://people.bath.ac.uk/dmjc20/) at the University of Bath, and defended my thesis, titled Extremal Kähler metrics and separable toric geometries, in February 2022.
 
 Currently, I work on three projects.
-- Toric separable geometries and extremal Käler metrics, where I systematically and explicitly define a new class of toric Sasaki/Kähler geometries and study their extremal metrics. This approach unifies all known explicit extremal Kähler metrics and provides new ones. Factorization structures occured, which led to
-- Geometry of compatible polytopes, where
-- Hyperbolic integral formulae for solutions of constant coefficient 2nd order PDEs, where
+- *Toric separable geometries and extremal Käler metrics*, where I systematically and explicitly define a new class of toric Sasaki/Kähler geometries and study their extremal metrics. This approach unifies all known explicit extremal Kähler metrics and provides new ones. Factorization structures occured, which led to
+- *Geometry of compatible polytopes*, where
+- *Hyperbolic integral formulae for solutions of constant coefficient 2nd order PDEs*, where
 
-
+In summer semester 2023, I teach a course on toric varieties and supervise a student project on stacks and gerbes.
 

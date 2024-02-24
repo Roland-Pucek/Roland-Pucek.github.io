@@ -7,4 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-<object data="{{ site.url }}/CV.pdf" width="1000" height="1000" type="application/pdf"></object>
+[CV](https://drive.google.com/file/d/1dzWFpqFxqTbC3vw8EWLvJjnWa_egd6LZ/view?usp=drive_link)
+
+<object data="{{ site.url }}/_pages/CV.pdf" width="1000" height="1000" type="application/pdf"></object>

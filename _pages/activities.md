@@ -25,7 +25,7 @@ nav_order: 3
 <table class="table table-sm table-borderless">
   <tr>
     <td>2024</td>
-    <td>KTH<br> 3 weeks</td>
+    <td>KTH, 3 weeks<br>Geometry of compatible polytopes</td>
   </tr>
 </table>
 </div>

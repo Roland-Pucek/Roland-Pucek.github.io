@@ -4,8 +4,8 @@
 
 title: Roland Púček # the website title (if blank, full name will be used instead)
 first_name: Roland
-middle_name: X
-last_name: Púček
+middle_name: 
+last_name: Púčekpucek
 email: roland.pucek@uni-jena.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.

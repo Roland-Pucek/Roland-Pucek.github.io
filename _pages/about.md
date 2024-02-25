@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: geometer
+subtitle: Geometer.
 
 profile:
   align: right

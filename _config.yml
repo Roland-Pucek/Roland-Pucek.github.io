@@ -12,7 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
 keywords: math, mathematics, geometry, differential-geometry, Kahler-geometry, extremal-metrics, discrete-geometry, combinatorics, Bath, Jena, Roland, Roland-Pucek, Pucek, geometer,# add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: chart.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: geom4.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://roland-pucek.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root

@@ -4,7 +4,7 @@
 
 title: Roland Púček # the website title (if blank, full name will be used instead)
 first_name: Roland
-middle_name: 
+middle_name: X
 last_name: Púček
 email: roland.pucek@uni-jena.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"

@@ -18,7 +18,6 @@ latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-<meta name="google-site-verification" content="e0YoaAfLkcyn2MjtlNYg1i9RSD3OgnAt9IM1uC833xQ" />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a research fellow in the Algebra group led by [Prof. Hendrik Süß](https://ibykus.sdf.org/website/) at the [Mathematical Institute](https://www.fmi.uni-jena.de/institut-mathematik) of the University of Jena.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since 2023, I am  a member of two working groups, Cartan Geometry and Representation Theory, and Integrable Systems and Supersymmetry, in the COST Action CaLISTA.  

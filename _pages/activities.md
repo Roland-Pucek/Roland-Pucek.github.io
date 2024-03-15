@@ -41,6 +41,11 @@ nav_order: 3
         <br>Cargese</td>
   </tr>
   <tr>
+    <td>2024</td>
+    <td><a href="https://www.mfo.de/occasion/2412/www_view">K-Stability, Birational Geometry and Mirror Symmetry</a>
+        <br>Oberwolach</td>
+  </tr>
+  <tr>
     <td>2023</td>
     <td><a href="https://uol.de/mathematik/aktuelles/singularities-and-torus-actions">Singularities and Torus Actions</a>
       <br>Oldenburg</td>

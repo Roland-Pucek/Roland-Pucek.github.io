@@ -12,7 +12,7 @@ nav_order: 4
 #### *toric varieties*
 
 
-1. 
+The structure of this course is that of the book on Toric Varieties by Cox, Little and Schenk. However, on multiple occasions, we diverge from this book in order to provide more examples and context within algebraic geometry.
 
   
 <details>
@@ -21,7 +21,9 @@ nav_order: 4
   &nbsp;
 
   <ul>
-  <li*</li>
+    <li>Cox, Little, Schenk - Toric Varieties</li>
+    <li>Harder - Lectures on Algebraic Geometry I, II</li>
+    <li>Görtz, Wedhorn - Algebraic Geometry I</li>
   </ul>
   
 </details>

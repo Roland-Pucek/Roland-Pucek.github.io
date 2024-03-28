@@ -43,9 +43,9 @@ nav_order: 3
   <tr>
     <td>2024</td>
     <td><a href="https://www.mfo.de/occasion/2412/www_view">K-Stability, Birational Geometry and Mirror Symmetry</a>
-        <br>Oberwolach</td>
+        <br>Oberwolach
         talk: Separable toric geometries and explicit extremal metrics
-  </td>
+    </td>
   </tr>
   <tr>
     <td>2023</td>

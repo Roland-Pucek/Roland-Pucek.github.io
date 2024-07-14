@@ -28,5 +28,5 @@ Currently, I work on three projects.
 - **Geometry of compatible polytopes**, where Marie-Charlotte Brandenburg and I explicitly compute their Ehrhart polynomials, volumes, f-vectors and more. This class of polytopes vastly generalises cyclic polytopes and features a generalised Gale's criterium.
 - **Hyperbolic integral formulae for solutions of constant coefficient 2nd order PDEs in even dimensions**, where Miloslav Torda and I use differntial-geometric point of view on residue theory to obtain the formulae, and thus extend Green, Kirchhoff and Riesz's formulae for Laplace and wave equations.
 
-In summer semester 2023, I teach a course on toric varieties and supervise a student project on stacks and gerbes.
+In summer semester 2024, I teach a course on toric varieties and supervise a student project on stacks and gerbes. In winter semester 2024/25, I co-supervise a seminar on category theory and supervise a student project in higher category theory.
 

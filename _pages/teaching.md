@@ -7,6 +7,35 @@ nav: true
 nav_order: 4
 ---
 
+## winter semester 2024
+---
+#### *basic category theory*
+
+
+1. categories, functors, natural transformations
+2. adjoints
+3. Yoneda lemma
+4. limits and adjoints
+5. Kan extensions
+6. higher categories, simplicial sets
+
+  
+<details>
+  <summary>References</summary> 
+
+  &nbsp;
+
+  <ul>
+  <li>Categories for the Working Mathematician - Saunders Mac Lane</li>
+  <li>Basic Category Theory - Tom Leinster</li>
+  <li>Notes on Category Theory - Paolo Perrone</li>
+  <li>Algebra I & II - Alexey L. Gorodentsev</li>
+  </ul>
+  
+</details>
+
+&nbsp;
+
 ## summer semester 2024
 ---
 #### *toric varieties*

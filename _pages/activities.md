@@ -25,7 +25,16 @@ nav_order: 3
 <table class="table table-sm table-borderless">
   <tr>
     <td>2024</td>
-    <td>KTH, 3 weeks<br>Geometry of compatible polytopes</td>
+    <td>KTH, 3 weeks (Nov)<br>Veronese polytopes</td>
+  </tr>
+</table>
+</div>
+
+<div class="table-responsive">
+<table class="table table-sm table-borderless">
+  <tr>
+    <td>2024</td>
+    <td>KTH, 3 weeks (Feb)<br>Geometry of compatible polytopes</td>
   </tr>
 </table>
 </div>
@@ -35,6 +44,11 @@ nav_order: 3
 
 <div class="table-responsive">
 <table class="table table-sm table-borderless">
+  <tr>
+    <td>2024</td>
+    <td><a href="https://www.conferences.uni-hamburg.de/event/464/overview">Workshop on generalised complex structure and homological methods</a>
+        <br>Hamburg</td>
+  </tr>
   <tr>
     <td>2024</td>
     <td><a href="https://bridges.geotop.ime.unicamp.br">BRIDGES meeting in Gauge Theory, extremal structures and stability</a>

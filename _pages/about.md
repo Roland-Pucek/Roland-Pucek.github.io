@@ -25,7 +25,7 @@ social: true # includes social icons at the bottom of the page
 
 Currently, I work on three projects.
 - **Toric separable geometries and extremal Käler metrics**, where I systematically describe a construction of explicit toric Sasaki/Kähler geometries and study their extremal metrics. This approach unifies and recovers all known explicit extremal toric Kähler metrics, and provides new ones. The key notion in this construction is that of factorization structures, which led to
-- **Geometry of compatible polytopes**, where Marie-Charlotte Brandenburg and I explicitly compute their Ehrhart polynomials, volumes, f-vectors and more. This class of polytopes vastly generalises cyclic polytopes and features a generalised Gale's criterium. First article in this series is titled [Veronese polytopes](stuff).
+- **Geometry of compatible polytopes**, where Marie-Charlotte Brandenburg and I explicitly compute their Ehrhart polynomials, volumes, f-vectors and more. This class of polytopes vastly generalises cyclic polytopes and features a generalised Gale's criterium. First article in this series is titled [Veronese polytopes](https://arxiv.org/abs/2411.13702).
 - **Hyperbolic integral formulae for solutions of constant coefficient 2nd order PDEs in even dimensions**, where Miloslav Torda and I use differential-geometric point of view on residue theory to obtain the formulae, and thus extend Green, Kirchhoff and Riesz's formulae for Laplace and wave equations.
 
 In summer semester 2024, I teach a course on toric varieties and supervise a student project on stacks and gerbes. In winter semester 2024/25, I co-supervise a seminar on category theory and supervise a student project in higher category theory.

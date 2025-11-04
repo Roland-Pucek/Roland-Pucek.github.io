@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a research fellow in the Geometry and Representation Theory group led by [Prof. Stéphanie Cupit-Foutou](https://math.ruhr-uni-bochum.de/en/fakultaet/arbeitsbereiche/analysis-und-topologie/gruppe-cupit-foutou/team/prof-dr-stephanie-cupit-foutou/) at the Ruhr University Bochum.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since 2023, I am  a member of two working groups, Cartan Geometry and Representation Theory, and Integrable Systems and Supersymmetry, in the COST Action CaLISTA.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I did my PhD under the the supervision of [Prof. David M. J. Calderbank](https://people.bath.ac.uk/dmjc20/) at the University of Bath, and defended my thesis, titled Extremal Kähler metrics and separable toric geometries, in February 2022.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I did my PhD under the the supervision of [Prof. David M. J. Calderbank](https://people.bath.ac.uk/dmjc20/) at the University of Bath, and defended my thesis in February 2022.
 
 Currently, I work on: ==_This section is under construction!_==
 - **Separable geometries**

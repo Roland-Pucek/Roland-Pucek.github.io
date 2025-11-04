@@ -5,9 +5,9 @@ nav: true
 nav_order: 4
 dropdown: true
 children:
+  - title: Ruhr Universität Bochum (current)
+    permalink: /teachingRUB/
+  - title: divider
   - title: Friedrich-Schiller-Universität Jena
     permalink: /teachingFSU/
-  - title: divider
-  - title: Ruhr Universität Bochum
-    permalink: /teachingRUB/
 ---

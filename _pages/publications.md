@@ -24,12 +24,6 @@ nav_order: 2
 
 </div> -->
 
-### thesis
-
-<div class="publications">
-{% bibliography -f thesis %}
-
-</div>
 
 &nbsp;
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /teachingFSU/
 title: teaching at FSU
 description:
 nav: false

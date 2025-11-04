@@ -7,14 +7,12 @@ nav: true
 nav_order: 2
 ---
 
-<!--
-### in preparation
+<!-- ### in preparation -->
 
-<div class="publications">
-{% bibliography -f in preparation %}
+<!-- <div class="publications"> -->
+<!-- {% bibliography -f in preparation %} -->
 
--->
-</div>
+<!-- </div> -->
 
 ### publications
 

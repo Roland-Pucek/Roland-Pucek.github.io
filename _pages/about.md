@@ -24,7 +24,8 @@ social: true # includes social icons at the bottom of the page
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I did my PhD under the the supervision of [Prof. David M. J. Calderbank](https://people.bath.ac.uk/dmjc20/) at the University of Bath, and defended my thesis, titled Extremal Kähler metrics and separable toric geometries, in February 2022.
 
 Currently, I work on:
-- **Separable geometries**: [Toric separable geometries and extremal Kähler metrics (Nov '25)](https://arxiv.org/abs/2511.01722) introduces the framework of (local) toric separable contact, CR and Kähler geometries which
+- **Separable geometries**
+[Toric separable geometries and extremal Kähler metrics (Nov '25)](https://arxiv.org/abs/2511.01722) introduces the framework of (local) toric separable contact, CR and Kähler geometries which
   - associates a family of toric separable Kähler geometries to each factorization structure / associates a toric CR geometry to each factorization structure,
       - moduli of factorization structures, being typically positive-dimensional, offer huge amounts of separable toric geometries
   - recovers all known explicit extremal toric Kähler metrics as extremal toric separable geometries compatible with _the product Segre_ and _the Veronese_ factorization structues,

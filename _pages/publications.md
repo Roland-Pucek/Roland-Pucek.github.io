@@ -13,8 +13,8 @@ nav_order: 2
 <div class="publications">
 {% bibliography -f in preparation %}
 
-</div>
 -->
+</div>
 
 ### publications
 

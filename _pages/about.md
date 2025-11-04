@@ -25,7 +25,7 @@ social: true # includes social icons at the bottom of the page
 
 Currently, I work on:
 - **Toric separable geometries and extremal Kähler metrics**, where I systematically describe a construction of explicit toric Sasaki/Kähler geometries and study their extremal metrics. This approach unifies and recovers all known explicit extremal toric Kähler metrics, and provides new ones.
- --[Toric separable geometries and extremal Kähler metrics (Nov '25)](https://arxiv.org/abs/2511.01722) The key notion in this construction is that of factorization structures, which gives rise to
+- -[Toric separable geometries and extremal Kähler metrics (Nov '25)](https://arxiv.org/abs/2511.01722) The key notion in this construction is that of factorization structures, which gives rise to
 - **Geometry of compatible cones and polytopes**, where Marie-Charlotte Brandenburg and I explicitly compute their Ehrhart polynomials, volumes, f-vectors and more. This class of polytopes vastly generalises cyclic polytopes and features a generalised Gale's criterium. First article in this series is titled [Veronese polytopes](https://arxiv.org/abs/2411.13702).
 
 Beyond my core research, I explore higher geometry and the crystallization conjecture—bridging math with crystal design. Natural sciences captivate me too, especially experimental and theoretical physics. If these pursuits align with yours, let’s connect—I’d be thrilled to exchange ideas!

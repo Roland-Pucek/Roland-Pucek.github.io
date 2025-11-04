@@ -26,7 +26,7 @@ social: true # includes social icons at the bottom of the page
 Currently, I work on: _This section is under construction!_
 - **Separable geometries**
 
-[Toric separable geometries and extremal Kähler metrics (Nov '25)](https://arxiv.org/abs/2511.01722) introduces the framework of (local) toric separable contact, CR and Kähler geometries which
+[Toric separable geometries and extremal Kähler metrics (Nov '25)](https://arxiv.org/abs/2511.01722) introduces the framework of (local) toric separable contact, CR and Kähler geometries which _This section is under construction!_
 <!-- opens possibilities of explicit analytical study
   - associates a family of toric separable Kähler geometries to each factorization structure / associates a toric CR geometry to each factorization structure,
       - moduli of factorization structures, being typically positive-dimensional, offer huge amounts of separable toric geometries
@@ -37,7 +37,7 @@ Currently, I work on: _This section is under construction!_
 The key notion of the separable geometries framework is that of factorization structures, which gives rise to
 - **Geometry of compatible cones and polytopes**
 
-[Veronese polytopes](https://arxiv.org/abs/2411.13702) describes a class of polytopes that vastly generalises cyclic polytopes <!-- , contains and which features a generalised Gale's criterium. -->
+[Veronese polytopes](https://arxiv.org/abs/2411.13702) describes a class of polytopes that vastly generalises cyclic polytopes _This section is under construction!_ <!-- , contains and which features a generalised Gale's criterium. -->
 
 Beyond my core research, I explore higher geometry and the crystallization conjecture—bridging math with crystal design. Natural sciences captivate me too, especially experimental and theoretical physics. If these pursuits align with yours, let’s connect—I’d be thrilled to exchange ideas!
 

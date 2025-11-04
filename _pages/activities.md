@@ -45,6 +45,11 @@ nav_order: 3
 <div class="table-responsive">
 <table class="table table-sm table-borderless">
   <tr>
+    <td>2025</td>
+    <td><a href="https://remold-2025.esaga.net/">ReMoLD School – representations, motives and Langlands duality</a>
+        <br>Essen</td>
+  </tr>
+  <tr>
     <td>2024</td>
     <td><a href="https://www.conferences.uni-hamburg.de/event/464/overview">Workshop on generalised complex structure and homological methods</a>
         <br>Hamburg</td>

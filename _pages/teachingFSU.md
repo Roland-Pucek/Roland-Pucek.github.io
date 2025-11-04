@@ -3,8 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching at FSU
 description:
-nav: true
-nav_order: 4
+nav: false
 ---
 
 ## winter semester 2024

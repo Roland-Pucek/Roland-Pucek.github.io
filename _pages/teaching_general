@@ -1,0 +1,13 @@
+---
+layout: page
+title: teaching
+nav: true
+nav_order: 4
+dropdown: true
+children:
+  - title: Friedrich-Schiller-Universität Jena
+    permalink: /teachingFSU/
+  - title: divider
+  - title: Ruhr Universität Bochum
+    permalink: /teachingRUB/
+---

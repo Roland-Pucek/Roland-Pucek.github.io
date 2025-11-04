@@ -17,13 +17,6 @@ nav_order: 2
 {% bibliography -f papers %}
 </div>
 
-<!-- ### in preparation
-
-<div class="publications">
-{% bibliography -f in preparation %}
-
-</div> -->
-
 
 &nbsp;
 

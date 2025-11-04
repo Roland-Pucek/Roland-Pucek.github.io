@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 3514</p>
-    <p>Institut für Mathematik</p>
-    <p>Ernst-Abbe-Platz 2, 07743 Jena</p>
+    <p>Office: IB 3/95</p>
+    <p>Fakultät für Mathematik</p>
+    <p>Uni­ver­si­täts­stra­ße 150, D-44780 Bo­chum</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts

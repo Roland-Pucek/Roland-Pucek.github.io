@@ -22,17 +22,17 @@ social: true # includes social icons at the bottom of the page
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a research fellow in the Geometry and Representation Theory group led by [Prof. Stéphanie Cupit-Foutou](https://math.ruhr-uni-bochum.de/en/fakultaet/arbeitsbereiche/analysis-und-topologie/gruppe-cupit-foutou/team/prof-dr-stephanie-cupit-foutou/) at the Ruhr University Bochum.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since 2023, I am  a member of two working groups, Cartan Geometry and Representation Theory, and Integrable Systems and Supersymmetry, in the COST Action CaLISTA.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I did my PhD under the the supervision of Prof. David M. J. Calderbank at the University of Bath.
-
-
-
-
-
+  
+  
+  
+  
+  
 Currently, I work on these projects:
 - **Separable geometries**
-
+  
 Recently, in [Toric separable geometries and extremal Kähler metrics (Nov '25)](https://arxiv.org/abs/2511.01722), I introduced the framework of (local) toric separable contact, CR and Kähler geometries.
 These geometries are well-suited for the analytical study of geometric PDEs.
-
+  
 Excerpt from the abstract:
 'This paper introduces the framework of (local) toric separable geometries, where separable geometries come in families, each uniquely determined by an underlying factorization structure. This unifying framework captures all known explicit Calabi-extremal toric Kähler metrics, previously constructed through diverse methods, as two distinct families corresponding to the simplest factorization structures: the product Segre and the Veronese factorization structure. Crucially, the moduli of typical factorization structures has a positive dimension, revealing an immensely rich and previously untapped landscape of toric separable geometries.'
 

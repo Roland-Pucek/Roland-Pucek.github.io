@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /assets/CV.pdf
+permalink: /assets/CV_website.pdf
 title: cv
 description: 
 nav: true

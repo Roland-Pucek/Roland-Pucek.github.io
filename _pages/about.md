@@ -24,6 +24,7 @@ Since 2023, I am  a member of two working groups, Cartan Geometry and Representa
 I did my PhD under the the supervision of Prof. David M. J. Calderbank at the University of Bath.
 &nbsp;  
 &nbsp;  
+
 _Currently, I work on these projects:_
  
 #### Separable geometries

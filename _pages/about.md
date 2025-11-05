@@ -22,11 +22,11 @@ social: true # includes social icons at the bottom of the page
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a research fellow in the Geometry and Representation Theory group led by [Prof. Stéphanie Cupit-Foutou](https://math.ruhr-uni-bochum.de/en/fakultaet/arbeitsbereiche/analysis-und-topologie/gruppe-cupit-foutou/team/prof-dr-stephanie-cupit-foutou/) at the Ruhr University Bochum.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since 2023, I am  a member of two working groups, Cartan Geometry and Representation Theory, and Integrable Systems and Supersymmetry, in the COST Action CaLISTA.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I did my PhD under the the supervision of Prof. David M. J. Calderbank at the University of Bath.
-  
-  
-  
-  
-  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 Currently, I work on these projects:
 - **Separable geometries**
   
@@ -39,12 +39,16 @@ Excerpt from the abstract:
 The toric separable Kähler geometries generalise ambitoric and orthotoric geometries, hence constructions previously limited to these can now be vastly extended.
 Alternative research directions include explicit study of (v-)solitons, Sasaki extremality, compactifications and other boundary behaviour, and generalised Calabi-type construction (fibrations).
 
-
+&nbsp;  
 The key notion of the separable geometries framework is that of factorization structures, which gives rise to
 - **Geometry of (compatible) cones and polytopes**
 
 In [Veronese polytopes](https://arxiv.org/abs/2411.13702), Marie-Charlotte Brandenburg and I describe a class of polytopes that contains and vastly generalises cyclic polytopes, and which features a generalised Gale's criterium.
 Unexpectdly, Veronese polytopes, i.e., polytopes compatible with the Veronese factorization structure, contain some stacked and all cyclic polytopes - the extremal examples for the number of faces of simplicial polytopes according to McMullen's upper bound theorem and Barnett's lower bound thorem.
+
+&nbsp;  
+&nbsp;  
+&nbsp;  
 
 Beyond my core research, I explore higher geometry and the crystallization conjecture—bridging math with crystal design. Natural sciences captivate me too, especially experimental and theoretical physics. If these pursuits align with yours, let’s connect—I’d be thrilled to exchange ideas!
 

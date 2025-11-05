@@ -27,23 +27,26 @@ social: true # includes social icons at the bottom of the page
 &nbsp;  
 &nbsp;  
 &nbsp;  
-Currently, I work on these projects:
+_Currently, I work on these projects:_
+
+&nbsp;  
 - **Separable geometries**
   
-Recently, in [Toric separable geometries and extremal Kähler metrics (Nov '25)](https://arxiv.org/abs/2511.01722), I introduced the framework of (local) toric separable contact, CR and Kähler geometries.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recently, in [Toric separable geometries and extremal Kähler metrics (Nov '25)](https://arxiv.org/abs/2511.01722), I introduced the framework of (local) toric separable contact, CR and Kähler geometries.
 These geometries are well-suited for the analytical study of geometric PDEs.
   
-Excerpt from the abstract:
+Excerpt from the abstract:  
 'This paper introduces the framework of (local) toric separable geometries, where separable geometries come in families, each uniquely determined by an underlying factorization structure. This unifying framework captures all known explicit Calabi-extremal toric Kähler metrics, previously constructed through diverse methods, as two distinct families corresponding to the simplest factorization structures: the product Segre and the Veronese factorization structure. Crucially, the moduli of typical factorization structures has a positive dimension, revealing an immensely rich and previously untapped landscape of toric separable geometries.'
 
 The toric separable Kähler geometries generalise ambitoric and orthotoric geometries, hence constructions previously limited to these can now be vastly extended.
 Alternative research directions include explicit study of (v-)solitons, Sasaki extremality, compactifications and other boundary behaviour, and generalised Calabi-type construction (fibrations).
 
 &nbsp;  
+&nbsp;  
 The key notion of the separable geometries framework is that of factorization structures, which gives rise to
 - **Geometry of (compatible) cones and polytopes**
 
-In [Veronese polytopes](https://arxiv.org/abs/2411.13702), Marie-Charlotte Brandenburg and I describe a class of polytopes that contains and vastly generalises cyclic polytopes, and which features a generalised Gale's criterium.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In [Veronese polytopes](https://arxiv.org/abs/2411.13702), Marie-Charlotte Brandenburg and I describe a class of polytopes that contains and vastly generalises cyclic polytopes, and which features a generalised Gale's criterium.
 Unexpectdly, Veronese polytopes, i.e., polytopes compatible with the Veronese factorization structure, contain some stacked and all cyclic polytopes - the extremal examples for the number of faces of simplicial polytopes according to McMullen's upper bound theorem and Barnett's lower bound thorem.
 
 &nbsp;  

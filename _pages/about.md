@@ -35,14 +35,13 @@ Excerpt from the abstract:
 _This paper introduces the framework of (local) toric separable geometries, where separable geometries come in families, each uniquely determined by an underlying factorization structure. This unifying framework captures all known explicit Calabi-extremal toric Kähler metrics, previously constructed through diverse methods, as two distinct families corresponding to the simplest factorization structures: the product Segre and the Veronese factorization structure. Crucially, the moduli of typical factorization structures has a positive dimension, revealing an immensely rich and previously untapped landscape of toric separable geometries._
 
 The toric separable Kähler geometries generalise ambitoric and orthotoric geometries, hence constructions previously limited to these can now be vastly extended.
-Alternative research directions include explicit study of (v-)solitons, Sasaki extremality, compactifications and other boundary behaviour, and generalised Calabi-type construction (fibrations).
+Alternative research directions include explicit study of (v-)solitons, Sasaki extremality, compactifications and other boundary behaviour, and generalised Calabi-type construction (fibrations). 
 
-&nbsp;  
-&nbsp;  
-The key notion of the separable geometries framework is that of factorization structures, which gives rise to
-- **Geometry of (compatible) cones and polytopes**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In [Veronese polytopes](https://arxiv.org/abs/2411.13702), Marie-Charlotte Brandenburg and I describe a class of polytopes that contains and vastly generalises cyclic polytopes, and which features a generalised Gale's criterium.
+#### Geometry of (compatible) cones and polytopes
+
+The key notion of the separable geometries framework, that of factorization structures, led to the study of compatible polytopes.
+In [Veronese polytopes](https://arxiv.org/abs/2411.13702), Marie-Charlotte Brandenburg and I describe a class of polytopes that contains and vastly generalises cyclic polytopes, and which features a generalised Gale's criterium.
 Unexpectdly, Veronese polytopes, i.e., polytopes compatible with the Veronese factorization structure, contain some stacked and all cyclic polytopes - the extremal examples for the number of faces of simplicial polytopes according to McMullen's upper bound theorem and Barnett's lower bound thorem.
 
 &nbsp;  

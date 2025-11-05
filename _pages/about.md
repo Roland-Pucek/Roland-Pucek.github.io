@@ -23,9 +23,9 @@ social: true # includes social icons at the bottom of the page
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since 2023, I am  a member of two working groups, Cartan Geometry and Representation Theory, and Integrable Systems and Supersymmetry, in the COST Action CaLISTA.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I did my PhD under the the supervision of Prof. David M. J. Calderbank at the University of Bath.
 
-&nbsp
-&nbsp
-&nbsp
+
+
+
 
 Currently, I work on these projects:
 - **Separable geometries**

@@ -11,7 +11,9 @@ nav: false
 #### *Riemann surfaces and algebraic curves (tutorial)*
 
 
-1. 
+1. Complex tori - atlases
+2. Complex plane curves and implicit function theorem
+3. Holomorphic maps and topology review
 
   
 <details>
@@ -20,10 +22,8 @@ nav: false
   &nbsp;
 
   <ul>
-  <li>s</li>
-  <li>s</li>
-  <li>s</li>
-  <li>s</li>
+  <li>[A concise course in complex analysis and Riemann surfaces - Wilhelm Schlag](https://gauss.math.yale.edu/~ws442/complex.pdf)</li>
+  <li>Algebraic curves and Riemann surfaces - Miranda</li>
   </ul>
   
 </details>

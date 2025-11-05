@@ -14,6 +14,7 @@ nav: false
 1. Complex tori - atlases
 2. Complex plane curves and implicit function theorem
 3. Holomorphic maps and topology review
+4. 
 
   
 <details>

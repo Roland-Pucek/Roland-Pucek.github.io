@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Geometer.
+subtitle: Postdoc at RUB | Roland.Pucek@ruhr-uni-bochum.de
 
 profile:
   align: right
@@ -12,7 +12,6 @@ profile:
     <p>Office: IB 3/95</p>
     <p>Fakultät für Mathematik</p>
     <p>Uni­ver­si­täts­stra­ße 150, D-44780 Bo­chum</p>
-    <p>Roland.Pucek@ruhr-uni-bochum.de</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
@@ -21,13 +20,13 @@ social: true # includes social icons at the bottom of the page
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a research fellow in the Geometry and Representation Theory group led by [Prof. Stéphanie Cupit-Foutou](https://math.ruhr-uni-bochum.de/en/fakultaet/arbeitsbereiche/analysis-und-topologie/gruppe-cupit-foutou/team/prof-dr-stephanie-cupit-foutou/) at the Ruhr University Bochum.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since 2023, I am  a member of two working groups, Cartan Geometry and Representation Theory, and Integrable Systems and Supersymmetry, in the COST Action CaLISTA.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I did my PhD under the the supervision of Prof. David M. J. Calderbank at the University of Bath.
+Since 2023, I am  a member of two working groups, Cartan Geometry and Representation Theory, and Integrable Systems and Supersymmetry, in the COST Action CaLISTA.  
+I did my PhD under the the supervision of Prof. David M. J. Calderbank at the University of Bath.
 &nbsp;  
 &nbsp;  
 _Currently, I work on these projects:_
  
-### Separable geometries
+#### Separable geometries
   
 Recently, in [Toric separable geometries and extremal Kähler metrics (Nov '25)](https://arxiv.org/abs/2511.01722), I introduced the framework of (local) toric separable contact, CR and Kähler geometries.
 These geometries are well-suited for the analytical study of geometric PDEs.

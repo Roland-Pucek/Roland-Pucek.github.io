@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoc at RUB | Roland.Pucek@ruhr-uni-bochum.de
+subtitle: Postdoc at RUB | Roland.Pucek@ruhr-uni-bochum.de <br>
 
 profile:
   align: right

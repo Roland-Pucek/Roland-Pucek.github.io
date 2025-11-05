@@ -44,9 +44,7 @@ The key notion of the separable geometries framework, that of factorization stru
 In [Veronese polytopes](https://arxiv.org/abs/2411.13702), Marie-Charlotte Brandenburg and I describe a class of polytopes that contains and vastly generalises cyclic polytopes, and which features a generalised Gale's criterium.
 Unexpectdly, Veronese polytopes, i.e., polytopes compatible with the Veronese factorization structure, contain some stacked and all cyclic polytopes - the extremal examples for the number of faces of simplicial polytopes according to McMullen's upper bound theorem and Barnett's lower bound thorem.
 
-&nbsp;  
-&nbsp;  
-&nbsp;  
+#### And beyond
 
 Beyond my core research, I explore higher geometry and the crystallization conjecture—bridging math with crystal design. Natural sciences captivate me too, especially experimental and theoretical physics. If these pursuits align with yours, let’s connect—I’d be thrilled to exchange ideas!
 

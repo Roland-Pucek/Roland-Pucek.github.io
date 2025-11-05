@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a research fellow in the Geometry and Representation Theory group led by [Prof. Stéphanie Cupit-Foutou](https://math.ruhr-uni-bochum.de/en/fakultaet/arbeitsbereiche/analysis-und-topologie/gruppe-cupit-foutou/team/prof-dr-stephanie-cupit-foutou/) at the Ruhr University Bochum.  
-Since 2023, I am  a member of two working groups, Cartan Geometry and Representation Theory, and Integrable Systems and Supersymmetry, in the COST Action CaLISTA.  
+Since 2023, I am  a member of two working groups, Cartan Geometry and Representation Theory, and Integrable Systems and Supersymmetry, in the COST Action CaLISTA.
 I did my PhD under the the supervision of Prof. David M. J. Calderbank at the University of Bath.
 &nbsp;  
 &nbsp;  

@@ -17,7 +17,7 @@ nav_order: 2
 {% bibliography -f papers %}
 </div>
 
-
+The total number of pages is given with respect to `\documentclass[11pt, a4paper]{amsart}`.
 &nbsp;
 
 &nbsp;

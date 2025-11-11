@@ -17,7 +17,7 @@ nav_order: 2
 {% bibliography -f papers %}
 </div>
 
-The total number of pages is given with respect to `\documentclass[11pt, a4paper]{amsart}`.
+The total number of pages is given with respect to `\documentclass[11pt, a4paper]{amsart}`. My arXiv versions use `\geometry{body={}, left=1.2in, right=1.2in, top=1.25in, bottom=1in}`.
 &nbsp;
 
 &nbsp;

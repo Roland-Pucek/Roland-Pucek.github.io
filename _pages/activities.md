@@ -45,9 +45,26 @@ nav_order: 3
 <div class="table-responsive">
 <table class="table table-sm table-borderless">
   <tr>
+    <td>2026</td>
+    <td><a href="https://sites.google.com/view/athuckleberry/home">Complex Analytic Geometry and Lie Theory: A Conference Dedicated to the Memory of Alan T. Huckleberry</a>
+        <br>Bochum</td>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td><a href="https://www.esaga.uni-due.de/daniel.greb/activities/BoDuEWup/">Joint Seminar on Complex Algebraic Geometry and Complex Analysis (Bochum - Essen - Köln - Wuppertal)</a>
+        <br>Köln
+        <br>talk: Toric separable geometries and geometric PDEs
+    </td>
+  </tr>
+  <tr>
     <td>2025</td>
     <td><a href="https://remold-2025.esaga.net/">ReMoLD School – representations, motives and Langlands duality</a>
         <br>Essen</td>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td><a href="https://www.esaga.uni-due.de/daniel.greb/TransformationGroups/">Workshop on Transformation Groups: In honor of Peter Heinzner</a>
+        <br>Bochum</td>
   </tr>
   <tr>
     <td>2024</td>
@@ -63,7 +80,7 @@ nav_order: 3
     <td>2024</td>
     <td><a href="https://www.mfo.de/occasion/2412/www_view">K-Stability, Birational Geometry and Mirror Symmetry</a>
         <br>Oberwolach
-        talk: Separable toric geometries and explicit extremal metrics
+        <br>talk: Toric separable geometries and explicit extremal metrics
     </td>
   </tr>
   <tr>

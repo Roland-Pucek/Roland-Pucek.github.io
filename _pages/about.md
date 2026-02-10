@@ -33,11 +33,11 @@ Recently, in [Toric separable geometries and extremal Kähler metrics (Nov '25)]
 These are well-suited for the analytical study of geometric PDEs and can be regarded as a generalisation of separation-of-variables technique.
 
 Excerpt from the abstract:  
-_<small>This paper introduces the framework of (local) toric separable geometries, where separable geometries come in families, each uniquely determined by an underlying factorization structure. This unifying framework captures all known explicit Calabi-extremal toric Kähler metrics, previously constructed through diverse methods, as two distinct families corresponding to the simplest factorization structures: the product Segre and the Veronese factorization structure. Crucially, the moduli of typical factorization structures has a positive dimension, revealing an immensely rich and previously untapped landscape of toric separable geometries.</small>_
+<small>This paper introduces the framework of (local) toric separable geometries, where separable geometries come in families, each uniquely determined by an underlying factorization structure. This unifying framework captures all known explicit Calabi-extremal toric Kähler metrics, previously constructed through diverse methods, as two distinct families corresponding to the simplest factorization structures: the product Segre and the Veronese factorization structure. Crucially, the moduli of typical factorization structures has a positive dimension, revealing an immensely rich and previously untapped landscape of toric separable geometries.</small>
 
 
 The toric separable Kähler geometries generalise ambitoric and orthotoric geometries, hence constructions previously limited to these can now be vastly extended.
-Alternative research directions include explicit study of (v-)solitons, Sasaki extremality, compactifications and other boundary behaviour, and generalised Calabi-type construction (fibrations).
+Alternative research directions include explicit study of weighted extremality, compactifications and other boundary behaviour, higher-cohomogeneity and spherical separable geometries, and weighted K-stability.
 
 #### Geometry of (compatible) cones and polytopes
 

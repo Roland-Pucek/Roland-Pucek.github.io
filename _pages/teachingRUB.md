@@ -5,19 +5,20 @@ title: teaching at RUB
 description:
 nav: false
 ---
-## summer semester 2026
----
-#### *Abelian Varieties*
 
+## summer semester 2026
+
+---
+
+#### _Abelian Varieties_
 
 1. integrable almost complex structure, Čech sheaf cohomology, divisor - line bunle correspondence, projective embeddings
-2. 
+2.
 
-  
 <details>
-  <summary>References</summary> 
+  <summary>References</summary>
 
-  &nbsp;
+&nbsp;
 
   <ul>
   <li>Principles of algebraic geometry - Harris, Griffiths</li>
@@ -30,20 +31,18 @@ nav: false
   
 </details>
 
-
 &nbsp;
 
-
 ## winter semester 2025
+
 ---
-#### *Riemann surfaces and algebraic curves (tutorial)*
 
+#### _Riemann surfaces and algebraic curves (tutorial)_
 
-  
 <details>
-  <summary>References</summary> 
+  <summary>References</summary>
 
-  &nbsp;
+&nbsp;
 
   <ul>
   <li>[A concise course in complex analysis and Riemann surfaces - Wilhelm Schlag](https://gauss.math.yale.edu/~ws442/complex.pdf)</li>
@@ -51,7 +50,6 @@ nav: false
   </ul>
   
 </details>
-
 
 &nbsp;
 

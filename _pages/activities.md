@@ -2,7 +2,7 @@
 layout: page
 permalink: /activities/
 title: activities
-description: 
+description:
 nav: true
 nav_order: 3
 ---
@@ -40,7 +40,6 @@ nav_order: 3
 </div>
 
 ### conferences, workshops and schools
-
 
 <div class="table-responsive">
 <table class="table table-sm table-borderless">
@@ -188,8 +187,6 @@ nav_order: 3
   </tr>
 </table>
 </div>
-
-  
 
 &nbsp;
 

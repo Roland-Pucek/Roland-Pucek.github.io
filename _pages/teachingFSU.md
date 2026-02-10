@@ -7,9 +7,10 @@ nav: false
 ---
 
 ## winter semester 2024
----
-#### *basic category theory*
 
+---
+
+#### _basic category theory_
 
 1. categories, functors, natural transformations
 2. adjoints
@@ -18,11 +19,10 @@ nav: false
 5. Kan extensions
 6. higher categories, simplicial sets
 
-  
 <details>
-  <summary>References</summary> 
+  <summary>References</summary>
 
-  &nbsp;
+&nbsp;
 
   <ul>
   <li>Categories for the Working Mathematician - Saunders Mac Lane</li>
@@ -36,17 +36,17 @@ nav: false
 &nbsp;
 
 ## summer semester 2024
----
-#### *toric varieties*
 
+---
+
+#### _toric varieties_
 
 The structure of this course is that of the book on Toric Varieties by Cox, Little and Schenk. However, on multiple occasions, we diverge from this book in order to provide more examples and context within algebraic geometry.
 
-  
 <details>
-  <summary>References</summary> 
+  <summary>References</summary>
 
-  &nbsp;
+&nbsp;
 
   <ul>
     <li>Cox, Little, Schenk - Toric Varieties</li>
@@ -61,21 +61,22 @@ The structure of this course is that of the book on Toric Varieties by Cox, Litt
 &nbsp;
 
 ## winter semester 2023
----
-#### *oberseminar: derived categories* 
-(turned into a study group on gerbes)
 
+---
+
+#### _oberseminar: derived categories_
+
+(turned into a study group on gerbes)
 
 1. (history and making of) varieties, manifolds, schemes, and ringed spaces
 2. local homeomorphisms and surjective submersion as a generalisation of open covers, sheaf theory
 3. descent, stack, Brylisnki-gerbe and the third cohomology class
 4. Murray's bundle gerbe
 
-  
 <details>
-  <summary>References</summary> 
+  <summary>References</summary>
 
-  &nbsp;
+&nbsp;
 
   <ul>
   <li>Brylinski - Loop spaces, characteristic classes, and geometric quantisation</li>
@@ -89,27 +90,35 @@ The structure of this course is that of the book on Toric Varieties by Cox, Litt
 
 &nbsp;
 
-#### *Kähler geometry* 
+#### _Kähler geometry_
 
 1. introduction
- - tensors, exterior derivative, de Rham cohomology, Riemannian volume form and integration, Stokes theorem  (Poincare duality)
+
+- tensors, exterior derivative, de Rham cohomology, Riemannian volume form and integration, Stokes theorem (Poincare duality)
+
 2. complex manifolds
- - complex manifolds: equivalent definitions, cotangent space m/m^2 definition
- - almost complex structure and equivalent condition of integrability
- - real vs complex vs holomorphic - functions, vector field and differential forms
- - Dolbeault cohomology
+
+- complex manifolds: equivalent definitions, cotangent space m/m^2 definition
+- almost complex structure and equivalent condition of integrability
+- real vs complex vs holomorphic - functions, vector field and differential forms
+- Dolbeault cohomology
+
 3. vector bundles and sheaves
- - real/complex/holomorphic vector bundles, (hermitian) metrics, connections and curvatures
- - Cauchy-Rieman operators/pseudo-holomorphic structures
- - Chern classes
- - sheaves and Cech cohomology
- - line bundles and divisors
-4. Kahler and Hermitian manifolds 
- - harmonic theory, dd^c-lemma
- - Kahler identities
- - Hodge decomposition
- - Lefschetz theorems
- - Kodaira-Serre duality, related results
+
+- real/complex/holomorphic vector bundles, (hermitian) metrics, connections and curvatures
+- Cauchy-Rieman operators/pseudo-holomorphic structures
+- Chern classes
+- sheaves and Cech cohomology
+- line bundles and divisors
+
+4. Kahler and Hermitian manifolds
+
+- harmonic theory, dd^c-lemma
+- Kahler identities
+- Hodge decomposition
+- Lefschetz theorems
+- Kodaira-Serre duality, related results
+
 5. Kodaira embedding and vanishing theorems, projective manifolds
 6. Calabi-Yau and Aubin-Yau theorems, Hodge conjecture, related results
 
@@ -133,9 +142,10 @@ The structure of this course is that of the book on Toric Varieties by Cox, Litt
 &nbsp;
 
 ## summer semester 2023
----
-#### *basic category theory*
 
+---
+
+#### _basic category theory_
 
 1. categories, functors, natural transformations
 2. adjoints
@@ -144,11 +154,10 @@ The structure of this course is that of the book on Toric Varieties by Cox, Litt
 5. more limits and Kan extensions
 6. outlook on abelian categories, derived categories and derived functors
 
-  
 <details>
-  <summary>References</summary> 
+  <summary>References</summary>
 
-  &nbsp;
+&nbsp;
 
   <ul>
   <li>Categories for the Working Mathematician - Saunders Mac Lane</li>
@@ -161,7 +170,7 @@ The structure of this course is that of the book on Toric Varieties by Cox, Litt
 
 &nbsp;
 
-#### *topics is differential geometry* 
+#### _topics is differential geometry_
 
 1. flat connections
 2. foliations
@@ -170,11 +179,10 @@ The structure of this course is that of the book on Toric Varieties by Cox, Litt
 5. classification of flat connections
 6. sheaves and sheaf cohomology
 
-  
 <details>
-  <summary>References</summary> 
+  <summary>References</summary>
 
-  &nbsp;
+&nbsp;
 
   <ul>
   <li>Taubes - Differential geometry</li>
@@ -187,20 +195,20 @@ The structure of this course is that of the book on Toric Varieties by Cox, Litt
 &nbsp;
 
 ## winter semester 2022
----
-#### *vector, principal and fibre bundles, connections, and characteristic classes*
 
+---
+
+#### _vector, principal and fibre bundles, connections, and characteristic classes_
 
 1. Overview
 2. vector, principal and fibre bundles
 3. connections and characteristic classes
 4. G-structures
 
-  
 <details>
-  <summary>References</summary> 
+  <summary>References</summary>
 
-  &nbsp;
+&nbsp;
 
   <ul>
   <li>Principles of algebraic geometry - Joe Harris and Phillip Griffiths </li>
@@ -222,9 +230,10 @@ The structure of this course is that of the book on Toric Varieties by Cox, Litt
 &nbsp;
 
 ## summer semester 2022
----
-#### *toric symplectic geometry*
 
+---
+
+#### _toric symplectic geometry_
 
 1. review of Lie group theory and symplectic geometry
 2. Hamiltonian actions
@@ -232,11 +241,10 @@ The structure of this course is that of the book on Toric Varieties by Cox, Litt
 4. Morse theory
 5. Delzant correspondence
 
-  
 <details>
-  <summary>References</summary> 
+  <summary>References</summary>
 
-  &nbsp;
+&nbsp;
 
   <ul>
   <li>Lectures on Symplectic Geometry - Ana Cannas da Silva</li>

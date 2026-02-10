@@ -20,24 +20,23 @@ social: true # includes social icons at the bottom of the page
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a research fellow in the Geometry and Representation Theory group led by [Prof. Stéphanie Cupit-Foutou](https://math.ruhr-uni-bochum.de/en/fakultaet/arbeitsbereiche/analysis-und-topologie/gruppe-cupit-foutou/team/prof-dr-stephanie-cupit-foutou/) at the Ruhr University Bochum.  
-Since 2023, I am  a member of two working groups, Cartan Geometry and Representation Theory, and Integrable Systems and Supersymmetry, in the COST Action CaLISTA.
+Since 2023, I am a member of two working groups, Cartan Geometry and Representation Theory, and Integrable Systems and Supersymmetry, in the COST Action CaLISTA.
 I did my PhD under the the supervision of Prof. David M. J. Calderbank at the University of Bath.
 &nbsp;  
-&nbsp;  
+&nbsp;
 
 _Currently, I work on these projects:_
- 
+
 #### Separable geometries
-  
+
 Recently, in [Toric separable geometries and extremal Kähler metrics (Nov '25)](https://arxiv.org/abs/2511.01722), I introduced the framework of (local) toric separable contact, CR and Kähler geometries.
 These geometries are well-suited for the analytical study of geometric PDEs.
-  
+
 Excerpt from the abstract:  
 _This paper introduces the framework of (local) toric separable geometries, where separable geometries come in families, each uniquely determined by an underlying factorization structure. This unifying framework captures all known explicit Calabi-extremal toric Kähler metrics, previously constructed through diverse methods, as two distinct families corresponding to the simplest factorization structures: the product Segre and the Veronese factorization structure. Crucially, the moduli of typical factorization structures has a positive dimension, revealing an immensely rich and previously untapped landscape of toric separable geometries._
 
 The toric separable Kähler geometries generalise ambitoric and orthotoric geometries, hence constructions previously limited to these can now be vastly extended.
-Alternative research directions include explicit study of (v-)solitons, Sasaki extremality, compactifications and other boundary behaviour, and generalised Calabi-type construction (fibrations). 
-
+Alternative research directions include explicit study of (v-)solitons, Sasaki extremality, compactifications and other boundary behaviour, and generalised Calabi-type construction (fibrations).
 
 #### Geometry of (compatible) cones and polytopes
 
@@ -48,4 +47,3 @@ Unexpectdly, Veronese polytopes, i.e., polytopes compatible with the Veronese fa
 #### And beyond
 
 Beyond my core research, I explore higher geometry and the crystallization conjecture—bridging math with crystal design. Natural sciences captivate me too, especially experimental and theoretical physics. If these pursuits align with yours, let’s connect—I’d be thrilled to exchange ideas!
-

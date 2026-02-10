@@ -30,12 +30,15 @@ _Currently, I work on these projects:_
 #### Separable geometries
 
 Recently, in [Toric separable geometries and extremal Kähler metrics (Nov '25)](https://arxiv.org/abs/2511.01722), I introduced the framework of (local) toric separable contact, CR and Kähler geometries.
-These geometries are well-suited for the analytical study of geometric PDEs.
+These are well-suited for the analytical study of geometric PDEs and can be regarded as a generalisation of separation-of-variables technique.
 
 Excerpt from the abstract:  
 _This paper introduces the framework of (local) toric separable geometries, where separable geometries come in families, each uniquely determined by an underlying factorization structure. This unifying framework captures all known explicit Calabi-extremal toric Kähler metrics, previously constructed through diverse methods, as two distinct families corresponding to the simplest factorization structures: the product Segre and the Veronese factorization structure. Crucially, the moduli of typical factorization structures has a positive dimension, revealing an immensely rich and previously untapped landscape of toric separable geometries._
 
-_<p class="small">This text will be noticeably smaller than regular text.</p>_
+<p class="small">_This text will be noticeably smaller than regular text._</p>
+
+This is a small paragraph.
+{: .small}
 
 _<small>this part is small.</small>_
 
